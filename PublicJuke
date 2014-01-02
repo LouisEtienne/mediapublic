@@ -1,0 +1,30 @@
+Introduction
+PublicJuke est un système de point de diffusion de contenu audiovisuel se servant des technologies mobiles. 
+C'est également une plateforme sociale d'échange de contenu indépendant et pro. Il est possible de s'abonner à un 
+téléchargement du contenu professionnelle pouvant être signé par des labels pros et indépendants pour un montant mensuel. 
+Les points de diffusion sont des jukebox paramétrables. Pour exercer un pouvoir commercial sur la diffusion publique 
+de son jukebox il est possible de s'abonner à un combo musique illimitée et e-commerce de diffusion publique.
+De cette manière, vous pouvez consommer la musique et en exercer un pouvoir commercial duquel vous ferez la promotion
+des artistes que vous aimez. Vous en tirerez des revenus et vous pourrez magasiner vos artistes préférés du même coup.
+
+Classes
+
+Contenu
+ContenuGénéral
+ContenuIndie
+ContenuPro
+
+Album
+AlbumIndie
+AlbumPro
+
+Jukebox
+
+Utilisateur
+UtilisateurAbonné
+UtilisateurCommercial
+
+Distributeur
+DistributeurIndie
+DistributeurPro
+
